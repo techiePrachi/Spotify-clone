@@ -27,7 +27,7 @@ body{
 .main-content{
     background-color: #121212;
     flex: 1;
-    border-radius: 1rem;/* 16px*/
+    border-radius: 1rem;
     overflow: auto;
     padding: 0 1.5rem;
 }
